@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/battery_outline"
+        android:duration="300">
+    </item>
+    <item
+        android:drawable="@drawable/battery_10"
+        android:duration="300">
+    </item>
+    <item
+        android:drawable="@drawable/battery_20"
+        android:duration="300">
+    </item>
+    <item
+        android:drawable="@drawable/battery_30"
+        android:duration="300">
+    </item>
+    <item
+        android:drawable="@drawable/battery_40"
+        android:duration="300">
+    </item>
+    <item
+        android:drawable="@drawable/battery_50"
+        android:duration="300">
+    </item>
+    <item
+        android:drawable="@drawable/battery_60"
+        android:duration="300">
+    </item>
+    <item
+        android:drawable="@drawable/battery_70"
+        android:duration="300">
+    </item>
+    <item
+        android:drawable="@drawable/battery_80"
+        android:duration="300">
+    </item>
+    <item
+        android:drawable="@drawable/battery_90"
+        android:duration="300">
+    </item>
+    <item
+        android:drawable="@drawable/battery"
+        android:duration="300">
+    </item>
+
+
+</animation-list>
